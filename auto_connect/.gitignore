@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# dotenv environment variable files
+.env
+
+# Output files
+output.html
+
+# npm log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Optional: If you want to ignore test coverage files
+coverage/
+
+# Optional: If you want to ignore build directories
+dist/
+build/
+
