@@ -5,6 +5,6 @@ To get your raspberry connected as fast as possible:
 - run:
 ```bash
 ./setup.sh
-./connect.sh
+./connect.sh # it may take a few seconds
 ```
 For more detailed info see [auto_connect readme](auto_connect/README.md)
